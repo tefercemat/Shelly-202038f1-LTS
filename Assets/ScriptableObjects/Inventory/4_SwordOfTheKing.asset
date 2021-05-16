@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b291e82f64648afbf7d987589a7c34, type: 3}
+  m_Name: 4_SwordOfTheKing
+  m_EditorClassIdentifier: 
+  Id: 4
+  type: 4
+  uiDisplay: {fileID: -2053027768694055790, guid: 48fd96ad0ec72457699e1b7102f97a44, type: 3}
+  description: The King himself used to combat with this sword.. when he was a kid...
+  isUnique: 1
+  isUsable: 0
+  maxStack: 1
+  buffs:
+  - atttribute: 0
+    value: 0
+    min: 10
+    max: 15
+  - atttribute: 3
+    value: 0
+    min: 5
+    max: 8

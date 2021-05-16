@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92dde1ded7d74b9a8efdc1a6eba3b10, type: 3}
+  m_Name: 12_MinorPowderThunder
+  m_EditorClassIdentifier: 
+  Id: 12
+  type: 2
+  uiDisplay: {fileID: -8422511134968458705, guid: 6e514fcb993894868aedf94673eed48b, type: 3}
+  description: Reagent used in the creation of minor Thunder spells. It's glowing
+    slightly...
+  isUsable: 1
+  maxStack: 1
+  buffs: []
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  manaRegen: 0
