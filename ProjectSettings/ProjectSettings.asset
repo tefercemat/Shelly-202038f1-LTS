@@ -147,6 +147,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Standalone: com.PisculeStudio.Shelly-202038f1-LTS
+    iPhone: com.PisculeStudio.Shelly-202038f1-LTS
   buildNumber:
     Standalone: 0
     iPhone: 0
