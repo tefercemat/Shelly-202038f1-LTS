@@ -36,7 +36,7 @@ public class Arrow : MonoBehaviour
         transform.parent = col.transform;
         Destroy(myRigidBody);
         this.GetComponent<BoxCollider2D>().enabled = false;
-        StartCoroutine(DestroyArrow());
+        //StartCoroutine(DestroyArrow());
     }
 
     private IEnumerator DestroyArrow()
