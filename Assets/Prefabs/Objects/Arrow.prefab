@@ -56,7 +56,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 805a9f1e1ea23451ea313e28b0390736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -149,6 +149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arrowSpeed: 20
   arrowStickLifetime: 2
+  arrowLifetime: 5
   myRigidBody: {fileID: 2102325051706577779}
 --- !u!114 &-4737861784109154245
 MonoBehaviour:
